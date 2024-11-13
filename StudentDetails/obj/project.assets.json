@@ -4000,11 +4000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/srikanth/Projects/StudentDetails/StudentDetails/StudentDetails.csproj",
+      "projectUniqueName": "/Users/srikanth/Projects/Akiti/StudentDetails/StudentDetails.csproj",
       "projectName": "StudentDetails",
-      "projectPath": "/Users/srikanth/Projects/StudentDetails/StudentDetails/StudentDetails.csproj",
+      "projectPath": "/Users/srikanth/Projects/Akiti/StudentDetails/StudentDetails.csproj",
       "packagesPath": "/Users/srikanth/.nuget/packages/",
-      "outputPath": "/Users/srikanth/Projects/StudentDetails/StudentDetails/obj/",
+      "outputPath": "/Users/srikanth/Projects/Akiti/StudentDetails/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/srikanth/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qcFmFL6oMNqCxyr2v4/DsLmhsbZ6kxbLqSshhz/qDxKgw1JIS2OB+Fy9AxUnJtvuv2yZ/x9OVn7wbuYjOslrg==",
+  "dgSpecHash": "P1kZCSKVRIetJTp3aHjNayPab9YLarMepnmu4w4zY3K6c7B5BRZkQ6tBraoQ2mwH+08SxUE2AYrFQQEv4VP1sg==",
   "success": true,
-  "projectFilePath": "/Users/srikanth/Projects/StudentDetails/StudentDetails/StudentDetails.csproj",
+  "projectFilePath": "/Users/srikanth/Projects/Akiti/StudentDetails/StudentDetails.csproj",
   "expectedPackageFiles": [
     "/Users/srikanth/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/srikanth/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
